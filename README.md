@@ -25,7 +25,7 @@ Lumbar spine regions:
 
 ## Coding Steps
 
-![Resim2](https://github.com/cerenkilic/Single-Class-Segmentation-of-Lumbar-Spine-MR-Images-using-U-Net/assets/74498810/ae8e8b12-0923-4b5d-b492-fad2c4c7270a)
+<img src="https://github.com/cerenkilic/Single-Class-Segmentation-of-Lumbar-Spine-MR-Images-using-U-Net/assets/74498810/ae8e8b12-0923-4b5d-b492-fad2c4c7270a" alt="Resim2" width="500"/>
 
 
 ## Results
