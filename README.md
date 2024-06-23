@@ -4,7 +4,7 @@ In this project, I segmented the IVD and PE regions using U-net. I extracted mas
 Mendeley Data repository. 
 
 ## Brief Information About the Dataset
-dataset link: https://data.mendeley.com/datasets/zbf6b4pttk/2 n
+dataset link: https://data.mendeley.com/datasets/zbf6b4pttk/2 
 - Publicly Available
 - Published in 2019.
 - Axial T2-weighted MR images
